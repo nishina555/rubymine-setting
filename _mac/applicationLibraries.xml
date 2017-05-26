@@ -2858,6 +2858,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/local_solr-0.0.9/lib" />
       </SOURCES>
     </library>
+    <library name="local_solr (v0.1.1, rbenv: 2.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/local_solr-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/local_solr-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="local_solr (v0.1.1, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/local_solr-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/local_solr-0.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.0.3, rbenv: 2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/loofah-2.0.3/lib" />
