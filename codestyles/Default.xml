@@ -1,1 +1,7 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <codeStyleSettings language="ruby">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
