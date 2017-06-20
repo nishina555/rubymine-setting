@@ -5,22 +5,14 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*erb" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*.jsx</mask>
       <mask>*.j</mask>
       <mask>*rb</mask>
-      <mask>*r</mask>
-      <mask>*erb</mask>
-      <mask>*er</mask>
-      <mask>*e</mask>
       <mask>*)spec*</mask>
       <mask>*_spec*</mask>
       <mask>*_spec</mask>
@@ -36,7 +28,15 @@
       <mask>*spe</mask>
       <mask>*sp</mask>
       <mask>*s</mask>
+      <mask>*えrb</mask>
+      <mask>*えr</mask>
+      <mask>*え</mask>
+      <mask>*a</mask>
+      <mask>*e</mask>
+      <mask>*r</mask>
       <mask>*</mask>
+      <mask>*er</mask>
+      <mask>*erb</mask>
     </recentFileMasks>
   </component>
 </application>
