@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*spec*" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*_spec.rb</mask>
       <mask>*_</mask>
@@ -21,7 +21,6 @@
       <mask>*er</mask>
       <mask>*erb</mask>
       <mask>&amp;</mask>
-      <mask>*</mask>
       <mask>*rspec</mask>
       <mask>*rspe</mask>
       <mask>*rsp</mask>
@@ -33,10 +32,11 @@
       <mask>*spec</mask>
       <mask>*rb*</mask>
       <mask>*r*</mask>
-      <mask>**</mask>
       <mask>*s*</mask>
       <mask>*spe*</mask>
       <mask>*spec*</mask>
+      <mask>**</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
