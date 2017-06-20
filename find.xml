@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*erb" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*.jsx</mask>
@@ -34,9 +33,10 @@
       <mask>*a</mask>
       <mask>*e</mask>
       <mask>*r</mask>
-      <mask>*</mask>
       <mask>*er</mask>
       <mask>*erb</mask>
+      <mask>&amp;</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
