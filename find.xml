@@ -7,11 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*spec*" />
     <recentFileMasks>
-      <mask>*rb</mask>
-      <mask>*)spec*</mask>
-      <mask>*_spec*</mask>
-      <mask>*_spec</mask>
-      <mask>*_spec.</mask>
       <mask>*_spec.rb</mask>
       <mask>*_</mask>
       <mask>*.rb</mask>
@@ -36,6 +31,11 @@
       <mask>*sp</mask>
       <mask>*spe</mask>
       <mask>*spec</mask>
+      <mask>*rb*</mask>
+      <mask>*r*</mask>
+      <mask>**</mask>
+      <mask>*s*</mask>
+      <mask>*spe*</mask>
       <mask>*spec*</mask>
     </recentFileMasks>
   </component>
