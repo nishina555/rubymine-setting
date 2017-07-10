@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.erb" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*spec&amp;</mask>
       <mask>*えrb</mask>
@@ -32,11 +32,11 @@
       <mask>*sp*</mask>
       <mask>*s*</mask>
       <mask>**</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.e</mask>
       <mask>*.er</mask>
       <mask>*.erb</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
