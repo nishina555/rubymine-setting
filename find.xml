@@ -5,16 +5,13 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*erb" />
     <recentFileMasks>
       <mask>*spec&amp;</mask>
       <mask>*えrb</mask>
       <mask>*えr</mask>
       <mask>*え</mask>
       <mask>*a</mask>
-      <mask>*e</mask>
-      <mask>*er</mask>
-      <mask>*erb</mask>
       <mask>&amp;</mask>
       <mask>*rspec</mask>
       <mask>*rspe</mask>
@@ -37,6 +34,9 @@
       <mask>*.erb</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>*e</mask>
+      <mask>*er</mask>
+      <mask>*erb</mask>
     </recentFileMasks>
   </component>
 </application>
