@@ -16,7 +16,6 @@
       <mask>*rspe</mask>
       <mask>*rsp</mask>
       <mask>*rs</mask>
-      <mask>*r</mask>
       <mask>*rb*</mask>
       <mask>*r*</mask>
       <mask>*s</mask>
@@ -34,8 +33,9 @@
       <mask>*.</mask>
       <mask>*e</mask>
       <mask>*er</mask>
-      <mask>*erb</mask>
       <mask>*</mask>
+      <mask>*erb</mask>
+      <mask>*r</mask>
       <mask>*rb</mask>
     </recentFileMasks>
   </component>
