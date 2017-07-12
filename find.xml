@@ -5,9 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*rb" />
     <recentFileMasks>
-      <mask>*spec&amp;</mask>
       <mask>*えrb</mask>
       <mask>*えr</mask>
       <mask>*え</mask>
@@ -37,6 +36,7 @@
       <mask>*er</mask>
       <mask>*erb</mask>
       <mask>*</mask>
+      <mask>*rb</mask>
     </recentFileMasks>
   </component>
 </application>
