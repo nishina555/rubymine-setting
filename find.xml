@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*controller*" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*rs</mask>
       <mask>*rb*</mask>
@@ -14,7 +14,6 @@
       <mask>*spe*</mask>
       <mask>*sp*</mask>
       <mask>*s*</mask>
-      <mask>**</mask>
       <mask>*.e</mask>
       <mask>*.er</mask>
       <mask>*.erb</mask>
@@ -30,13 +29,14 @@
       <mask>*s</mask>
       <mask>*spec</mask>
       <mask>*spec*</mask>
-      <mask>*</mask>
       <mask>*cont</mask>
       <mask>*contro</mask>
       <mask>*control</mask>
       <mask>*controll</mask>
       <mask>*controller</mask>
       <mask>*controller*</mask>
+      <mask>**</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
