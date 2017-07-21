@@ -3,9 +3,11 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*spec*" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*rs</mask>
       <mask>*rb*</mask>
@@ -28,15 +30,15 @@
       <mask>*controll</mask>
       <mask>*controller</mask>
       <mask>*controller*</mask>
-      <mask>**</mask>
-      <mask>*r</mask>
-      <mask>*rb</mask>
-      <mask>*</mask>
       <mask>*s</mask>
       <mask>*sp</mask>
       <mask>*spe</mask>
       <mask>*spec</mask>
       <mask>*spec*</mask>
+      <mask>**</mask>
+      <mask>*rb</mask>
+      <mask>*r</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
