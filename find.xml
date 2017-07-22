@@ -9,7 +9,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*rs</mask>
       <mask>*rb*</mask>
       <mask>*r*</mask>
       <mask>*spe*</mask>
@@ -38,6 +37,7 @@
       <mask>**</mask>
       <mask>*rb</mask>
       <mask>*r</mask>
+      <mask>*target_scope</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>
