@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*rb" />
     <recentFileMasks>
       <mask>*rb*</mask>
       <mask>*r*</mask>
@@ -35,10 +35,10 @@
       <mask>*spec</mask>
       <mask>*spec*</mask>
       <mask>**</mask>
-      <mask>*rb</mask>
-      <mask>*r</mask>
       <mask>*target_scope</mask>
       <mask>*</mask>
+      <mask>*r</mask>
+      <mask>*rb</mask>
     </recentFileMasks>
   </component>
 </application>
