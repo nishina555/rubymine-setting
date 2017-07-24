@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*yml" />
     <recentFileMasks>
       <mask>*sp*</mask>
       <mask>*s*</mask>
@@ -35,10 +35,10 @@
       <mask>*target_scope</mask>
       <mask>*rb</mask>
       <mask>*r</mask>
-      <mask>*yml</mask>
-      <mask>*ym</mask>
-      <mask>*y</mask>
       <mask>*</mask>
+      <mask>*y</mask>
+      <mask>*ym</mask>
+      <mask>*yml</mask>
     </recentFileMasks>
   </component>
 </application>
