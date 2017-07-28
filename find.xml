@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
@@ -11,8 +9,6 @@
       <mask>*y</mask>
       <mask>*ym</mask>
       <mask>*yml</mask>
-      <mask>*rb</mask>
-      <mask>*r</mask>
       <mask>＊</mask>
       <mask>*s</mask>
       <mask>*sp</mask>
@@ -37,6 +33,8 @@
       <mask>[^server_rendering*</mask>
       <mask>^server_rendering*</mask>
       <mask>server_rendering*</mask>
+      <mask>*rb</mask>
+      <mask>*r</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>
