@@ -3,28 +3,12 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*s*</mask>
-      <mask>*.e</mask>
-      <mask>*.er</mask>
-      <mask>*.erb</mask>
-      <mask>*.</mask>
-      <mask>*e</mask>
-      <mask>*er</mask>
-      <mask>*erb</mask>
-      <mask>*sぺc</mask>
-      <mask>*sぺ</mask>
-      <mask>*cont</mask>
-      <mask>*contro</mask>
-      <mask>*control</mask>
-      <mask>*controll</mask>
-      <mask>*controller</mask>
-      <mask>*controller*</mask>
-      <mask>**</mask>
-      <mask>*target_scope</mask>
       <mask>*y</mask>
       <mask>*ym</mask>
       <mask>*yml</mask>
@@ -36,6 +20,24 @@
       <mask>*spe</mask>
       <mask>*spec</mask>
       <mask>*spec*</mask>
+      <mask>^*</mask>
+      <mask>^</mask>
+      <mask>^(*server_rendering*</mask>
+      <mask>^(</mask>
+      <mask>^(*</mask>
+      <mask>^(**</mask>
+      <mask>^(**)</mask>
+      <mask>^(*server_rendering**)</mask>
+      <mask>^(*server_rendering*)</mask>
+      <mask>^(server_rendering*)</mask>
+      <mask>^(server_rendering*</mask>
+      <mask>「＾server_rendering*</mask>
+      <mask>「あserver_rendering*</mask>
+      <mask>「server_rendering*</mask>
+      <mask>[^server_rendering*]</mask>
+      <mask>[^server_rendering*</mask>
+      <mask>^server_rendering*</mask>
+      <mask>server_rendering*</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>
