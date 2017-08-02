@@ -6,16 +6,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*jsx" />
+    <option name="FILE_MASK" value="*css" />
     <recentFileMasks>
-      <mask>*rb ||*jsx</mask>
-      <mask>*rb |*jsx</mask>
-      <mask>*rb *jsx</mask>
-      <mask>*rb*jsx</mask>
-      <mask>*r*jsx</mask>
-      <mask>**jsx</mask>
-      <mask>*js</mask>
-      <mask>*j</mask>
       <mask>*</mask>
       <mask>*ymlymlymljsx</mask>
       <mask>*ymlymlymljs</mask>
@@ -37,7 +29,15 @@
       <mask>*ymjsx</mask>
       <mask>*yjsx</mask>
       <mask>jsx</mask>
+      <mask>*jsxcっs</mask>
+      <mask>*jsxcっ</mask>
       <mask>*jsx</mask>
+      <mask>*jsxc</mask>
+      <mask>*jsxcs</mask>
+      <mask>*jsxcss</mask>
+      <mask>*jscss</mask>
+      <mask>*jcss</mask>
+      <mask>*css</mask>
     </recentFileMasks>
   </component>
 </application>
