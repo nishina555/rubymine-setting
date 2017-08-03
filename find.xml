@@ -4,11 +4,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*rb" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*ymlymlyml</mask>
       <mask>*ymlymlym</mask>
       <mask>*ymlymly</mask>
       <mask>*ymlymljsx</mask>
@@ -36,8 +34,9 @@
       <mask>*css</mask>
       <mask>*cs</mask>
       <mask>*c</mask>
-      <mask>*</mask>
       <mask>*rb</mask>
+      <mask>*r</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
