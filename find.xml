@@ -5,14 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*scss" />
     <recentFileMasks>
-      <mask>*ymlym</mask>
-      <mask>*ymly</mask>
-      <mask>*ymljx</mask>
-      <mask>*ymlj</mask>
-      <mask>*ymljs</mask>
-      <mask>*ymljsx</mask>
       <mask>*ymjsx</mask>
       <mask>*yjsx</mask>
       <mask>jsx</mask>
@@ -37,6 +31,12 @@
       <mask>*ym</mask>
       <mask>*yml</mask>
       <mask>*</mask>
+      <mask>*s</mask>
+      <mask>*scっs</mask>
+      <mask>*scっ</mask>
+      <mask>*sc</mask>
+      <mask>*scs</mask>
+      <mask>*scss</mask>
     </recentFileMasks>
   </component>
 </application>
