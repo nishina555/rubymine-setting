@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*yml" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*ymjsx</mask>
       <mask>*yjsx</mask>
@@ -31,10 +31,10 @@
       <mask>*scss</mask>
       <mask>*rb</mask>
       <mask>*r</mask>
-      <mask>*</mask>
       <mask>*y</mask>
       <mask>*ym</mask>
       <mask>*yml</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
