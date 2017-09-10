@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*jcss</mask>
       <mask>*css</mask>
       <mask>*cs</mask>
       <mask>*c</mask>
@@ -34,6 +33,7 @@
       <mask>*jsx</mask>
       <mask>*js</mask>
       <mask>*j</mask>
+      <mask>*`</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>
