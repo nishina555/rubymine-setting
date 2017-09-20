@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.jsx" />
     <recentFileMasks>
-      <mask>*css</mask>
-      <mask>*cs</mask>
-      <mask>*c</mask>
-      <mask>*yjl</mask>
       <mask>*yj</mask>
       <mask>*ynk</mask>
       <mask>*yn</mask>
@@ -25,7 +21,6 @@
       <mask>*yml</mask>
       <mask>*.png</mask>
       <mask>*.=</mask>
-      <mask>*.</mask>
       <mask>*pnd</mask>
       <mask>*png</mask>
       <mask>*pn</mask>
@@ -35,6 +30,11 @@
       <mask>*js</mask>
       <mask>*j</mask>
       <mask>*</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
