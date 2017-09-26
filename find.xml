@@ -5,8 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*yj</mask>
-      <mask>*ynk</mask>
       <mask>*yn</mask>
       <mask>*s</mask>
       <mask>*scっs</mask>
@@ -22,18 +20,20 @@
       <mask>*.png</mask>
       <mask>*.=</mask>
       <mask>*pnd</mask>
-      <mask>*png</mask>
-      <mask>*pn</mask>
-      <mask>*p</mask>
       <mask>*`</mask>
       <mask>*jsx</mask>
       <mask>*js</mask>
-      <mask>*j</mask>
       <mask>*.s</mask>
       <mask>*.jsx</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
+      <mask>*jpg</mask>
+      <mask>*jp</mask>
+      <mask>*j</mask>
+      <mask>*png</mask>
+      <mask>*pn</mask>
+      <mask>*p</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>
