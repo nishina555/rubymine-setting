@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*spec.rb" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*y</mask>
       <mask>*ym</mask>
@@ -29,12 +29,12 @@
       <mask>*specr</mask>
       <mask>*spec.r</mask>
       <mask>*spec.</mask>
-      <mask>*</mask>
-      <mask>*s</mask>
       <mask>*sp</mask>
       <mask>*spe</mask>
       <mask>*spec</mask>
       <mask>*spec.rb</mask>
+      <mask>*s</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
