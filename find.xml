@@ -5,15 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*y</mask>
-      <mask>*ym</mask>
-      <mask>*yml</mask>
-      <mask>*.png</mask>
-      <mask>*.=</mask>
-      <mask>*pnd</mask>
-      <mask>*`</mask>
-      <mask>*jsx</mask>
-      <mask>*js</mask>
       <mask>*.s</mask>
       <mask>*.jsx</mask>
       <mask>*.js</mask>
@@ -34,6 +25,15 @@
       <mask>*spec</mask>
       <mask>*spec.rb</mask>
       <mask>*s</mask>
+      <mask>*re</mask>
+      <mask>*rep</mask>
+      <mask>*repre</mask>
+      <mask>*represe</mask>
+      <mask>*represen</mask>
+      <mask>*represent</mask>
+      <mask>*representer</mask>
+      <mask>*representer*</mask>
+      <mask>**</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>
