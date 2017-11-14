@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*spec*" />
     <recentFileMasks>
-      <mask>*jp</mask>
       <mask>*png</mask>
       <mask>*pn</mask>
       <mask>*p</mask>
@@ -15,11 +14,7 @@
       <mask>*specr</mask>
       <mask>*spec.r</mask>
       <mask>*spec.</mask>
-      <mask>*sp</mask>
-      <mask>*spe</mask>
-      <mask>*spec</mask>
       <mask>*spec.rb</mask>
-      <mask>*s</mask>
       <mask>*represe</mask>
       <mask>*jsx</mask>
       <mask>*js</mask>
@@ -37,6 +32,11 @@
       <mask>*representer*</mask>
       <mask>**</mask>
       <mask>*</mask>
+      <mask>*s</mask>
+      <mask>*sp</mask>
+      <mask>*spe</mask>
+      <mask>*spec</mask>
+      <mask>*spec*</mask>
     </recentFileMasks>
   </component>
 </application>
