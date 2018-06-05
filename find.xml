@@ -2,14 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*png</mask>
-      <mask>*pn</mask>
-      <mask>*p</mask>
-      <mask>*s[</mask>
       <mask>*specr</mask>
       <mask>*spec.r</mask>
       <mask>*spec.</mask>
@@ -36,6 +30,10 @@
       <mask>*spec</mask>
       <mask>*spec*</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
