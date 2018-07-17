@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*yml" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*re[resen</mask>
       <mask>*re[resenter</mask>
@@ -31,10 +31,10 @@
       <mask>*e</mask>
       <mask>*er</mask>
       <mask>*erb</mask>
-      <mask>*</mask>
-      <mask>*y</mask>
       <mask>*ym</mask>
       <mask>*yml</mask>
+      <mask>*y</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
