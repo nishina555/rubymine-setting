@@ -24,9 +24,6 @@
       <mask>*.jsx</mask>
       <mask>*.</mask>
       <mask>*。</mask>
-      <mask>*y</mask>
-      <mask>*ym</mask>
-      <mask>*yml</mask>
       <mask>*えrb</mask>
       <mask>*えr</mask>
       <mask>*え</mask>
@@ -34,6 +31,9 @@
       <mask>*er</mask>
       <mask>*erb</mask>
       <mask>*</mask>
+      <mask>*y</mask>
+      <mask>*ym</mask>
+      <mask>*yml</mask>
     </recentFileMasks>
   </component>
 </application>
