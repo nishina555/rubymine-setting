@@ -3,17 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*specr</mask>
-      <mask>*spec.r</mask>
-      <mask>*spec.</mask>
-      <mask>*spec.rb</mask>
-      <mask>*represe</mask>
-      <mask>*jsx</mask>
-      <mask>*js</mask>
-      <mask>*j</mask>
-      <mask>*re[</mask>
-      <mask>*re[re</mask>
       <mask>*re[resen</mask>
       <mask>*re[resenter</mask>
       <mask>*re</mask>
@@ -33,6 +24,16 @@
       <mask>*.js</mask>
       <mask>*.jsx</mask>
       <mask>*.</mask>
+      <mask>*。</mask>
+      <mask>*y</mask>
+      <mask>*ym</mask>
+      <mask>*yml</mask>
+      <mask>*えrb</mask>
+      <mask>*えr</mask>
+      <mask>*え</mask>
+      <mask>*e</mask>
+      <mask>*er</mask>
+      <mask>*erb</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>
