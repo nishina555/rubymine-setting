@@ -5,23 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*re[resen</mask>
-      <mask>*re[resenter</mask>
-      <mask>*re</mask>
-      <mask>*rep</mask>
-      <mask>*repre</mask>
-      <mask>*represen</mask>
-      <mask>*represent</mask>
-      <mask>*representer</mask>
-      <mask>*representer*</mask>
-      <mask>**</mask>
-      <mask>*s</mask>
-      <mask>*sp</mask>
-      <mask>*spe</mask>
-      <mask>*spec</mask>
-      <mask>*spec*</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jsx</mask>
@@ -30,13 +14,28 @@
       <mask>*えrb</mask>
       <mask>*えr</mask>
       <mask>*え</mask>
-      <mask>*e</mask>
-      <mask>*er</mask>
-      <mask>*erb</mask>
       <mask>*ym</mask>
       <mask>*yml</mask>
       <mask>*y</mask>
+      <mask>erb*</mask>
+      <mask>er*</mask>
+      <mask>e*</mask>
+      <mask>html*</mask>
+      <mask>htm*</mask>
+      <mask>ht*</mask>
+      <mask>h*</mask>
+      <mask>e</mask>
+      <mask>er</mask>
+      <mask>erb</mask>
+      <mask>*ht</mask>
+      <mask>*htm</mask>
+      <mask>*html</mask>
+      <mask>*h</mask>
       <mask>*</mask>
+      <mask>*e</mask>
+      <mask>*er</mask>
+      <mask>*erbn</mask>
+      <mask>*erb</mask>
     </recentFileMasks>
   </component>
 </application>
