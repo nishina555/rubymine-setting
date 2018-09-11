@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*erb" />
+    <option name="FILE_MASK" value="*scss" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.jsx</mask>
       <mask>*.</mask>
       <mask>*。</mask>
       <mask>*えrb</mask>
@@ -30,11 +28,13 @@
       <mask>*html</mask>
       <mask>*h</mask>
       <mask>*erbn</mask>
-      <mask>*</mask>
       <mask>*r</mask>
       <mask>*e</mask>
       <mask>*er</mask>
       <mask>*erb</mask>
+      <mask>*</mask>
+      <mask>*sc</mask>
+      <mask>*scss</mask>
     </recentFileMasks>
   </component>
 </application>
