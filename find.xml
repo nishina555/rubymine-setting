@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*spec.rb" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*yml</mask>
       <mask>*y</mask>
@@ -26,7 +26,6 @@
       <mask>*e</mask>
       <mask>*er</mask>
       <mask>*erb</mask>
-      <mask>*</mask>
       <mask>*sc</mask>
       <mask>*scss</mask>
       <mask>*s</mask>
@@ -35,6 +34,7 @@
       <mask>*spec</mask>
       <mask>*spec.</mask>
       <mask>*spec.rb</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
