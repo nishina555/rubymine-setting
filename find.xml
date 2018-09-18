@@ -5,8 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*yml</mask>
-      <mask>*y</mask>
       <mask>erb*</mask>
       <mask>er*</mask>
       <mask>e*</mask>
@@ -26,14 +24,16 @@
       <mask>*e</mask>
       <mask>*er</mask>
       <mask>*erb</mask>
-      <mask>*sc</mask>
-      <mask>*scss</mask>
-      <mask>*s</mask>
       <mask>*sp</mask>
       <mask>*spe</mask>
       <mask>*spec</mask>
       <mask>*spec.</mask>
       <mask>*spec.rb</mask>
+      <mask>*sc</mask>
+      <mask>*scs</mask>
+      <mask>*scss</mask>
+      <mask>*ss</mask>
+      <mask>*s</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>
