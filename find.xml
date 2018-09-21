@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*spec.rb" />
     <recentFileMasks>
-      <mask>htm*</mask>
-      <mask>ht*</mask>
       <mask>h*</mask>
       <mask>e</mask>
       <mask>er</mask>
@@ -20,11 +18,6 @@
       <mask>*e</mask>
       <mask>*er</mask>
       <mask>*erb</mask>
-      <mask>*sp</mask>
-      <mask>*spe</mask>
-      <mask>*spec</mask>
-      <mask>*spec.</mask>
-      <mask>*spec.rb</mask>
       <mask>*ss</mask>
       <mask>*SCSS</mask>
       <mask>*SCS</mask>
@@ -33,8 +26,15 @@
       <mask>*scss</mask>
       <mask>*scs</mask>
       <mask>*sc</mask>
+      <mask>*sp</mask>
       <mask>*s</mask>
+      <mask>*p</mask>
       <mask>*</mask>
+      <mask>*spe</mask>
+      <mask>*spec</mask>
+      <mask>*spec.</mask>
+      <mask>*spec.r</mask>
+      <mask>*spec.rb</mask>
     </recentFileMasks>
   </component>
 </application>
