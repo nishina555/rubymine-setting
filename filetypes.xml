@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="frontend_core_ssh_key" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
