@@ -1,39 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>h*</mask>
-      <mask>e</mask>
-      <mask>er</mask>
-      <mask>erb</mask>
-      <mask>*ht</mask>
-      <mask>*htm</mask>
-      <mask>*html</mask>
-      <mask>*h</mask>
-      <mask>*erbn</mask>
-      <mask>*r</mask>
-      <mask>*e</mask>
-      <mask>*er</mask>
-      <mask>*erb</mask>
-      <mask>*ss</mask>
-      <mask>*SCSS</mask>
-      <mask>*SCS</mask>
-      <mask>*SC</mask>
-      <mask>*S</mask>
-      <mask>*scss</mask>
-      <mask>*scs</mask>
-      <mask>*sc</mask>
-      <mask>*sp</mask>
-      <mask>*s</mask>
-      <mask>*p</mask>
-      <mask>*spe</mask>
-      <mask>*spec</mask>
-      <mask>*spec.</mask>
-      <mask>*spec.r</mask>
-      <mask>*spec.rb</mask>
-      <mask>*</mask>
-    </recentFileMasks>
   </component>
 </application>
