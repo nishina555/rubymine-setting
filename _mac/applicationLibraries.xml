@@ -3547,13 +3547,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/ffi-1.9.25/samples" />
@@ -5984,14 +5982,12 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/nokogiri-1.10.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/nokogiri-1.10.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/nokogiri-1.10.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/nokogiri-1.10.1/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/nokogiri-1.10.1/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/nokogiri-1.10.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/nokogiri-1.10.1/lib" />
@@ -6386,7 +6382,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.11.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/puma-3.11.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/puma-3.11.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/puma-3.11.2/lib" />
@@ -6394,7 +6389,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/puma-3.11.2/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.11.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/puma-3.11.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/puma-3.11.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/puma-3.11.2/lib" />
@@ -6745,13 +6739,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.2" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.6/lib/ruby/gems/2.4.0/gems/rb-fsevent-0.10.2/lib" />
