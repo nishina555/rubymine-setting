@@ -16,8 +16,8 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.haml</mask>
     <mask>*</mask>
     <mask>*.rb</mask>
+    <mask>*.haml</mask>
   </component>
 </application>
