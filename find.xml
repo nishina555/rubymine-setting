@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.haml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,8 +18,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*</mask>
-    <mask>*.haml</mask>
     <mask>*.js.erb</mask>
     <mask>*.rb</mask>
+    <mask>*.haml</mask>
   </component>
 </application>
