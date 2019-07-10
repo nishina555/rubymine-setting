@@ -5430,6 +5430,36 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="debase (v0.2.3, Remote: ruby-2.4.6p354 ( revision 67394)-p354) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debase-0.2.3/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debase-0.2.3/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debase-0.2.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debase-0.2.3/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debase-0.2.3/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debase-0.2.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debase-0.2.3/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debase-0.2.3/test" />
+      </excluded>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.5, Remote: ruby-2.4.6p354 ( revision 67394)-p354) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debase-ruby_core_source-0.10.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debase-ruby_core_source-0.10.5/lib" />
+      </SOURCES>
+    </library>
     <library name="debug_inspector (v0.0.3, rbenv: 2.4.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
