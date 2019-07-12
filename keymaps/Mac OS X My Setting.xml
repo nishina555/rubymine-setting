@@ -64,6 +64,9 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -79,6 +82,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
@@ -89,4 +95,5 @@
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="close_bracket" />
   </action>
   <action id="Switcher" />
+  <action id="Vcs.UpdateProject" />
 </keymap>
