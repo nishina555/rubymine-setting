@@ -17,6 +17,7 @@
   </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
