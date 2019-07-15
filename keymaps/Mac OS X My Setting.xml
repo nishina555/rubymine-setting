@@ -58,6 +58,11 @@
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="shift n" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
