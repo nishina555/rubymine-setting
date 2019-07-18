@@ -1,9 +1,4 @@
 <keymap version="1" name="Mac OS X My Setting" parent="Mac OS X">
-  <action id="$Redo">
-    <keyboard-shortcut first-keystroke="shift meta z" />
-    <keyboard-shortcut first-keystroke="shift alt back_space" />
-    <keyboard-shortcut first-keystroke="meta y" />
-  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
@@ -22,15 +17,8 @@
   </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
-  <action id="Editor Redo">
-    <keyboard-shortcut first-keystroke="meta y" />
-  </action>
-  <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
-  </action>
-  <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="meta equals" />
@@ -75,9 +63,6 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
-  <action id="GotoTest">
-    <keyboard-shortcut first-keystroke="meta t" />
-  </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -93,9 +78,6 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
-  <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="shift meta t" />
-  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
@@ -106,5 +88,4 @@
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="close_bracket" />
   </action>
   <action id="Switcher" />
-  <action id="Vcs.UpdateProject" />
 </keymap>
