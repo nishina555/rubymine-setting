@@ -6,6 +6,7 @@
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="CollapseAll">
@@ -71,32 +72,20 @@
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
-  <action id="NewElement">
-    <keyboard-shortcut first-keystroke="ctrl n" />
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-    <keyboard-shortcut first-keystroke="shift n" />
-  </action>
-  <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="alt tab" />
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="shift meta semicolon" />
-  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="minus" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="ctrl equals" />
+    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="close_bracket" />
   </action>
   <action id="Switcher" />
 </keymap>

@@ -15,10 +15,11 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js.erb</mask>
-    <mask>*.haml</mask>
     <mask>*spec.rb</mask>
     <mask>*_spec.rb</mask>
     <mask>*</mask>
     <mask>*.rb</mask>
+    <mask>*.haml</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
