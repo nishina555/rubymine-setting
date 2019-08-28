@@ -3878,13 +3878,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/bcrypt-3.1.12/spec" />
@@ -3973,13 +3971,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.5.0" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/bindex-0.5.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/bindex-0.5.0/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bindex/0.5.0" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/bindex-0.5.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/bindex-0.5.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/bindex-0.5.0/test" />
@@ -4018,14 +4014,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/binding_of_caller-0.8.0/test" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/binding_of_caller-0.8.0/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/binding_of_caller-0.8.0/test" />
@@ -4566,13 +4560,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.0" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/byebug-10.0.0/exe" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/byebug-10.0.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/byebug-10.0.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.0" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/byebug-10.0.0/exe" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/byebug-10.0.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/byebug-10.0.0/lib" />
@@ -5472,13 +5464,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debug_inspector-0.0.3/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debug_inspector-0.0.3/test" />
@@ -8808,13 +8798,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/google-protobuf/3.5.1.2" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/google-protobuf-3.5.1.2-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/google-protobuf-3.5.1.2-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/google-protobuf-3.5.1.2-x86_64-linux/tests" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/google-protobuf/3.5.1.2" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/google-protobuf-3.5.1.2-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/google-protobuf-3.5.1.2-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/google-protobuf-3.5.1.2-x86_64-linux/tests" />
@@ -9500,7 +9488,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/http_parser.rb-0.6.0/spec" />
@@ -9508,7 +9495,6 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/http_parser.rb-0.6.0/spec" />
@@ -10213,7 +10199,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/1.8.6" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/json-1.8.6/data" />
@@ -10223,7 +10208,6 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/1.8.6" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/json-1.8.6/data" />
@@ -11633,7 +11617,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/nio4r-2.3.1/spec" />
@@ -11641,7 +11624,6 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/nio4r-2.3.1/spec" />
@@ -11752,14 +11734,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oj/3.6.4" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/oj-3.6.4/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/oj-3.6.4/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/oj-3.6.4/test" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/oj-3.6.4/pages" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oj/3.6.4" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/oj-3.6.4/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/oj-3.6.4/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/oj-3.6.4/test" />
@@ -11982,13 +11962,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/pg-0.21.0/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/pg-0.21.0/spec" />
@@ -13297,14 +13275,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/redcarpet/3.4.0" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/redcarpet-3.4.0/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/redcarpet-3.4.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/redcarpet-3.4.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/redcarpet-3.4.0/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/redcarpet/3.4.0" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/redcarpet-3.4.0/bin" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/redcarpet-3.4.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/redcarpet-3.4.0/lib" />
@@ -15344,13 +15320,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/websocket-driver-0.6.5/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.6.5" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/websocket-driver-0.6.5/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/websocket-driver-0.6.5/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/websocket-driver-0.6.5/examples" />
