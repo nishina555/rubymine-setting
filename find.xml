@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.haml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,12 +17,12 @@
     <mask>*.js.erb</mask>
     <mask>*</mask>
     <mask>*.rb</mask>
-    <mask>*.haml</mask>
     <mask>*.sass</mask>
     <mask>*spec.rb</mask>
     <mask>*.jbuilder</mask>
     <mask>*.js</mask>
     <mask>*.jb</mask>
     <mask>*_spec.rb</mask>
+    <mask>*.haml</mask>
   </component>
 </application>
