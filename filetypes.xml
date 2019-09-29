@@ -4,6 +4,8 @@
       <mapping pattern="frontend_core_ssh_key" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="jb" type="Ruby" />
+      <removed_mapping ext="jb" approved="true" type="JSON" />
     </extensionMap>
   </component>
 </application>

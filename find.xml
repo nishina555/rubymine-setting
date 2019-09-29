@@ -1,27 +1,25 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js.erb</mask>
-    <mask>*spec.rb</mask>
-    <mask>*_spec.rb</mask>
     <mask>*</mask>
     <mask>*.rb</mask>
-    <mask>*.haml</mask>
     <mask>*.sass</mask>
+    <mask>*spec.rb</mask>
+    <mask>*.jbuilder</mask>
+    <mask>*.js</mask>
+    <mask>*.jb</mask>
+    <mask>*_spec.rb</mask>
+    <mask>*.haml</mask>
   </component>
 </application>
