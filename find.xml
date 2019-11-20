@@ -24,8 +24,8 @@
     <mask>*_controller.rb</mask>
     <mask>*.rb</mask>
     <mask>*.spec.rb</mask>
-    <mask>*.jb</mask>
     <mask>*.haml</mask>
     <mask>*_spec.rb</mask>
+    <mask>*.jb</mask>
   </component>
 </application>
