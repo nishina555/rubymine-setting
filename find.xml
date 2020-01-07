@@ -23,7 +23,7 @@
     <mask>*.js</mask>
     <mask>*</mask>
     <mask>*.jb</mask>
-    <mask>*_spec.rb</mask>
     <mask>*.vue</mask>
+    <mask>*_spec.rb</mask>
   </component>
 </application>
