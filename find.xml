@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html.haml" />
     <mask>*.properties</mask>
-    <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -25,5 +25,7 @@
     <mask>*.js</mask>
     <mask>*</mask>
     <mask>*.vue</mask>
+    <mask>*.html</mask>
+    <mask>*.html.haml</mask>
   </component>
 </application>
