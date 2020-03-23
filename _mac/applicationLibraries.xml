@@ -8806,13 +8806,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/google-protobuf/3.5.1.2" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/google-protobuf-3.5.1.2-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/google-protobuf-3.5.1.2-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/google-protobuf-3.5.1.2-x86_64-linux/tests" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/google-protobuf/3.5.1.2" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/google-protobuf-3.5.1.2-x86_64-linux/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/google-protobuf-3.5.1.2-x86_64-linux/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/google-protobuf-3.5.1.2-x86_64-linux/tests" />
@@ -11631,7 +11629,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/nio4r-2.3.1/spec" />
@@ -11639,7 +11636,6 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/nio4r-2.3.1/spec" />
