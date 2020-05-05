@@ -85,7 +85,7 @@
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="minus" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="back_slash" />
   </action>
   <action id="Switcher" />
 </keymap>
