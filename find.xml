@@ -32,5 +32,6 @@
     <mask>*.haml</mask>
     <mask>*jb</mask>
     <mask>*_spec.rb</mask>
+    <mask>*coffee</mask>
   </component>
 </application>
