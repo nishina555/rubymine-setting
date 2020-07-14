@@ -29,10 +29,10 @@
     <mask>*rb</mask>
     <mask>*.rb</mask>
     <mask>*.haml</mask>
-    <mask>*jb</mask>
     <mask>*_spec.rb</mask>
     <mask>*coffee</mask>
     <mask>*haml</mask>
     <mask>*spec.rb</mask>
+    <mask>*jb</mask>
   </component>
 </application>
