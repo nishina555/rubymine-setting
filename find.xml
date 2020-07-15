@@ -29,8 +29,9 @@
     <mask>*coffee</mask>
     <mask>*haml</mask>
     <mask>*spec.rb</mask>
-    <mask>*.rb</mask>
     <mask>*jb</mask>
     <mask>*_spec.rb</mask>
+    <mask>*.rb</mask>
+    <mask>*s.rb</mask>
   </component>
 </application>
