@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*spec.rb" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -31,9 +32,9 @@
     <mask>*.jb</mask>
     <mask>*.rb</mask>
     <mask>.rb</mask>
-    <mask>*spec.rb</mask>
     <mask>*scss</mask>
     <mask>*.scss</mask>
     <mask>*.sass</mask>
+    <mask>*spec.rb</mask>
   </component>
 </application>
