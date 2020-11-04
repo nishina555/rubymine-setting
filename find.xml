@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sass" />
+    <option name="FILE_MASK" value="*.haml" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -22,7 +22,6 @@
     <mask>*.vue</mask>
     <mask>*.html</mask>
     <mask>*.html.haml</mask>
-    <mask>*.haml</mask>
     <mask>*coffee</mask>
     <mask>*haml</mask>
     <mask>*_spec.rb</mask>
@@ -36,5 +35,6 @@
     <mask>*.scss</mask>
     <mask>*spec.rb</mask>
     <mask>*.sass</mask>
+    <mask>*.haml</mask>
   </component>
 </application>
