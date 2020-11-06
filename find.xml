@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*_spec.rb" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -21,7 +22,6 @@
     <mask>*.html.haml</mask>
     <mask>*coffee</mask>
     <mask>*haml</mask>
-    <mask>*_spec.rb</mask>
     <mask>*s.rb</mask>
     <mask>*rb</mask>
     <mask>*jb</mask>
@@ -35,5 +35,6 @@
     <mask>*_spec*</mask>
     <mask>.sass</mask>
     <mask>*.sass</mask>
+    <mask>*_spec.rb</mask>
   </component>
 </application>
