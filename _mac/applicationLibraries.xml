@@ -2020,12 +2020,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/binding_of_caller-0.8.0/test" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/binding_of_caller-0.8.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/binding_of_caller-0.8.0/test" />
@@ -2806,11 +2808,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debug_inspector-0.0.3/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/debug_inspector-0.0.3/test" />
@@ -5227,6 +5231,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/1.8.6" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/json-1.8.6/data" />
@@ -5236,6 +5241,7 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/1.8.6" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2018.3/ruby_stubs/369441333/1322250864/gems/json-1.8.6/data" />
