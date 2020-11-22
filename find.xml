@@ -28,11 +28,11 @@
     <mask>.rb</mask>
     <mask>*scss</mask>
     <mask>*.scss</mask>
-    <mask>*spec.rb</mask>
     <mask>*.haml</mask>
     <mask>*_spec*</mask>
     <mask>.sass</mask>
     <mask>*.sass</mask>
+    <mask>*spec.rb</mask>
     <mask>*_spec.rb</mask>
   </component>
 </application>
