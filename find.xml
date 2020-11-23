@@ -2,18 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js.erb</mask>
-    <mask>*.sass</mask>
     <mask>*.jbuilder</mask>
     <mask>*_controller.rb</mask>
     <mask>*.spec.rb</mask>
@@ -23,16 +17,21 @@
     <mask>*.vue</mask>
     <mask>*.html</mask>
     <mask>*.html.haml</mask>
-    <mask>*.haml</mask>
     <mask>*coffee</mask>
     <mask>*haml</mask>
-    <mask>*_spec.rb</mask>
     <mask>*s.rb</mask>
     <mask>*rb</mask>
     <mask>*jb</mask>
     <mask>*.jb</mask>
     <mask>*.rb</mask>
     <mask>.rb</mask>
+    <mask>*scss</mask>
+    <mask>*.scss</mask>
     <mask>*spec.rb</mask>
+    <mask>*.haml</mask>
+    <mask>*_spec*</mask>
+    <mask>.sass</mask>
+    <mask>*.sass</mask>
+    <mask>*_spec.rb</mask>
   </component>
 </application>
