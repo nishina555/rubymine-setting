@@ -1,0 +1,37 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.js.erb</mask>
+    <mask>*.jbuilder</mask>
+    <mask>*_controller.rb</mask>
+    <mask>*.spec.rb</mask>
+    <mask>*controller.rb</mask>
+    <mask>*.js</mask>
+    <mask>*</mask>
+    <mask>*.vue</mask>
+    <mask>*.html</mask>
+    <mask>*.html.haml</mask>
+    <mask>*coffee</mask>
+    <mask>*haml</mask>
+    <mask>*s.rb</mask>
+    <mask>*rb</mask>
+    <mask>*jb</mask>
+    <mask>*.jb</mask>
+    <mask>*.rb</mask>
+    <mask>.rb</mask>
+    <mask>*scss</mask>
+    <mask>*.scss</mask>
+    <mask>*_spec*</mask>
+    <mask>.sass</mask>
+    <mask>*spec.rb</mask>
+    <mask>*_spec.rb</mask>
+    <mask>*.sass</mask>
+    <mask>*.haml</mask>
+  </component>
+</application>
