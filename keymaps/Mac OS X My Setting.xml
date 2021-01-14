@@ -1,4 +1,5 @@
 <keymap version="1" name="Mac OS X My Setting" parent="Mac OS X">
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
