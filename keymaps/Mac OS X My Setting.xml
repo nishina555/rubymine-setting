@@ -89,4 +89,5 @@
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="back_slash" />
   </action>
   <action id="Switcher" />
+  <action id="UsageGrouping.FileStructure" />
 </keymap>
