@@ -87,10 +87,11 @@
   </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="minus" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="back_slash" />
-    <keyboard-shortcut first-keystroke="back_slash" />
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
   <action id="Switcher" />
   <action id="UsageGrouping.FileStructure" />
