@@ -73,6 +73,9 @@
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="s" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
@@ -87,6 +90,7 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl s" second-keystroke="back_slash" />
+    <keyboard-shortcut first-keystroke="back_slash" />
   </action>
   <action id="Switcher" />
   <action id="UsageGrouping.FileStructure" />
