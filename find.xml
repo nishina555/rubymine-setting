@@ -5,8 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.java</mask>
-    <mask>*.as</mask>
+    <option name="FILE_MASK" value="*spec*" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js.erb</mask>
@@ -28,12 +27,14 @@
     <mask>*.rb</mask>
     <mask>.rb</mask>
     <mask>*scss</mask>
-    <mask>*.scss</mask>
     <mask>*_spec*</mask>
     <mask>.sass</mask>
     <mask>*_spec.rb</mask>
     <mask>*.sass</mask>
     <mask>*.haml</mask>
     <mask>*spec.rb</mask>
+    <mask>*.scss</mask>
+    <mask>*.spec*</mask>
+    <mask>*spec*</mask>
   </component>
 </application>
